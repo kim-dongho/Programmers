@@ -13,7 +13,7 @@ vector<int> solution(vector<int> answers) {
     int std3[10] = { 3,3,1,1,2,2,4,4,5,5 };
     
     int length = answers.size();
-    int cnt[4] = { 0 };
+    int cnt[4] = { 0 }; 
     
     for(int i = 0; i < length; i++)
     {
